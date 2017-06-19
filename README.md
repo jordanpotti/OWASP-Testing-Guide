@@ -1,5 +1,5 @@
 # OWASP-Testing-Guide
-Summation of the OWASP Testing Guide for reference
+Summation of the OWASP Testing Guide for reference.
 
 Complete guide found here: https://www.owasp.org/images/1/19/OTGv4.pdf
 
